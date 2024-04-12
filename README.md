@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chatbot with TensorFlow and Keras
+# Tensorflow AI
 
 This repository contains code for building a chatbot using TensorFlow and Keras. The chatbot is designed to respond to user queries and prompts with contextually relevant answers.
 
