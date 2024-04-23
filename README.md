@@ -30,6 +30,12 @@ To run the chatbot locally, follow these steps:
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Run the `tensorflow-ai.py` script to train the model and start the chat interface.
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Usage
 
 Once the chatbot is installed and running, you can interact with it by typing queries or prompts into the command line interface. The chatbot will respond with generated text based on the input it receives.
